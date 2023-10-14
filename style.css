@@ -107,14 +107,13 @@ ul li span:hover{
 @media screen and (max-width: 380px) {
     .btn{
         width:15px;
-        font-size:17px;
+        font-size:15px;
         display: flex;
         justify-content: center;
         flex-wrap: wrap;
     }
-  
     input{
-      width:34px;
+      width:30px;
     }
 }
 
